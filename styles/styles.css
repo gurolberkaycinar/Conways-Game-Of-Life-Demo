@@ -1,0 +1,18 @@
+#gameArea {
+    height: fit-content;
+    width: fit-content;
+    font-size: 0;
+}
+
+table {
+    height: fit-content;
+}
+
+td {
+    height: fit-content;
+}
+
+.cell {
+    display: inline-block;
+    border-radius: 1px;
+}
